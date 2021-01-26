@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T10:31:28.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="_HVdIo9K9tGvkD09M36X" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T10:33:23.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="1p2GSKOB6z0-MegjXHXk" version="14.2.6" type="github">
   <diagram id="O8zIBrpue6FMB7xXW-CX" name="Page-1">
     <mxGraphModel dx="2027" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
         <mxCell id="ODbUXR2kp1AXb-9uxzaP-125" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ODbUXR2kp1AXb-9uxzaP-118" vertex="1">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ODbUXR2kp1AXb-9uxzaP-126" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="ODbUXR2kp1AXb-9uxzaP-125" vertex="1">
+        <mxCell id="ODbUXR2kp1AXb-9uxzaP-126" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="ODbUXR2kp1AXb-9uxzaP-125" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ODbUXR2kp1AXb-9uxzaP-127" value="訂單時間" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ODbUXR2kp1AXb-9uxzaP-125" vertex="1">
